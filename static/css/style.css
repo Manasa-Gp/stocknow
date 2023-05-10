@@ -1,0 +1,19 @@
+.vertical {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body{
+  background: rgb(230, 227, 227);
+}
+
+.my-card:hover{
+  transform: scale(1.1);
+  transition: 0.2s ease-in-out;
+}
